@@ -1,4 +1,6 @@
-# [WIP] Volto Arcgis Block
+
+# *Archived: This project has been moved to [https://github.com/eea/volto-arcgis-block](https://github.com/eea/volto-arcgis-block)
+## [WIP] Volto Arcgis Block
 ## ArcGIS Map integration for Volto blocks
 ***Disclaimer:** This product is in development, at this time it is not recommended to use it.*
 
